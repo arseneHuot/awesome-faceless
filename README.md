@@ -1,237 +1,310 @@
 # Awesome Faceless Content Creation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of AI tools, guides, and resources for faceless content creators on YouTube, TikTok, and other platforms.
+[![Stars](https://img.shields.io/github/stars/sasharun/awesome-faceless?style=social)](https://github.com/sasharun/awesome-faceless)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Last update](https://img.shields.io/badge/last%20update-2026--07-blue.svg)](https://github.com/sasharun/awesome-faceless)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
 
-**🔗 Full directory with detailed reviews: [faceless.directory](https://faceless.directory)**
+> **80+ AI tools** for **faceless YouTube**, TikTok, and Shorts creators — scripting, TTS voiceover, text-to-video, editing, automation, SEO, and open-source pipelines.  
+> Keywords people actually search: *faceless YouTube channel*, *cash cow channel tools*, *AI voiceover*, *text to video*, *YouTube automation*.
 
-Faceless content is one of the fastest-growing trends in content creation. Build profitable channels without showing your face using AI-powered tools for scripting, voice generation, video creation, and automation.
+**🔗 Full directory with reviews & stacks:** [faceless.directory](https://faceless.directory) (100+ tools)
+
+Build a profitable channel **without showing your face**: AI scripts → voice → B-roll / avatar video → captions → schedule → analytics.
+
+---
+
+## Why this list
+
+Most “AI tool dumps” mix SaaS ads with dead links. This list is **curated for faceless workflows only**:
+
+- Sorted by job-to-be-done (script → voice → video → edit → distribute)
+- Pricing column so you can build a **free / cheap / pro** stack
+- Links to deeper reviews on [faceless.directory](https://faceless.directory) when available
+- New in 2026: **Kling / Luma / Veo-class video**, better TTS, Shorts clippers, **open-source factories**
 
 ---
 
 ## Contents
 
-- [📝 Scripting & Writing](#-scripting--writing)
-- [🎙️ Voice & Text-to-Speech](#️-voice--text-to-speech)
-- [🎬 Video Generation](#-video-generation)
-- [✂️ Video Editing](#️-video-editing)
-- [🖼️ Thumbnails & Graphics](#️-thumbnails--graphics)
-- [⚡ Automation](#-automation)
-- [📊 Analytics](#-analytics)
-- [📁 Organization](#-organization)
-- [📚 Guides & Tutorials](#-guides--tutorials)
-- [🎯 Channel Ideas](#-channel-ideas)
-- [🔗 Communities](#-communities)
+- [Quick start stacks](#-quick-start-stacks)
+- [Scripting & Writing](#-scripting--writing)
+- [Voice & Text-to-Speech](#️-voice--text-to-speech)
+- [Video Generation](#-video-generation)
+- [Video Editing & Clips](#️-video-editing--clips)
+- [Thumbnails & Graphics](#️-thumbnails--graphics)
+- [Music & SFX](#-music--sfx)
+- [Automation & Publishing](#-automation--publishing)
+- [Analytics & SEO](#-analytics--seo)
+- [Organization](#-organization)
+- [Open-source pipelines](#-open-source-pipelines)
+- [Guides & Tutorials](#-guides--tutorials)
+- [Channel Ideas](#-channel-ideas)
+- [Communities](#-communities)
+- [Contributing](#contributing)
+
+---
+
+## ⚡ Quick start stacks
+
+Copy a stack, ship this week.
+
+| Stack | Monthly $ | Pipeline |
+|-------|-----------|----------|
+| **Zero budget** | ~$0 | ChatGPT free / Gemini → browser TTS or CapCut voice → CapCut + stock → TubeBuddy free |
+| **Cash-cow starter** | ~$30–60 | ChatGPT/Claude → **ElevenLabs** → CapCut / InVideo → Canva thumbs → Buffer |
+| **Shorts machine** | ~$40–80 | Script AI → ElevenLabs → **Kling / Luma** B-roll → **Opus Clip / Submagic** captions → schedule |
+| **Pro automation** | $100+ | Claude for scripts → ElevenLabs + Cartesia → Runway/Kling → Descript → Make/n8n → VidIQ |
+
+**Rule of thumb:** spend first on **voice quality** (retention), then **hooks/thumbnails**, then fancy video models.
 
 ---
 
 ## 📝 Scripting & Writing
 
-Tools for writing video scripts, generating ideas, and creating content.
+Tools for scripts, titles, hooks, and research.
 
 | Tool | Description | Pricing | Review |
 |------|-------------|---------|--------|
-| [ChatGPT](https://chat.openai.com/) | Best-in-class AI writing for scripts, titles, and ideas | Freemium ($20/mo) | [Review](https://faceless.directory/directory/chatgpt) |
-| [Claude](https://claude.ai/) | Excellent for long-form scripts and nuanced content | Freemium ($20/mo) | [Review](https://faceless.directory/directory/claude) |
-| [Jasper](https://jasper.ai/) | AI copywriting with marketing focus | From $49/mo | [Review](https://faceless.directory/directory/jasper) |
-| [Copy.ai](https://copy.ai/) | Quick content generation with templates | Freemium | [Review](https://faceless.directory/directory/copyai) |
-| [Writesonic](https://writesonic.com/) | AI writer with built-in fact-checking | Freemium | [Review](https://faceless.directory/directory/writesonic) |
+| [ChatGPT](https://chat.openai.com/) | Scripts, titles, hooks, outline iteration | Freemium | [Review](https://faceless.directory/directory/chatgpt) |
+| [Claude](https://claude.ai/) | Long-form scripts, less generic tone | Freemium | [Review](https://faceless.directory/directory/claude) |
+| [Gemini](https://gemini.google.com/) | Free-tier research + script drafts | Free / paid | — |
+| [Grok](https://x.ai/) | Fast ideation, trend-aware drafts | Freemium | — |
+| [Jasper](https://jasper.ai/) | Marketing-oriented copy | From $49/mo | [Review](https://faceless.directory/directory/jasper) |
+| [Copy.ai](https://copy.ai/) | Templates for hooks and descriptions | Freemium | [Review](https://faceless.directory/directory/copyai) |
+| [Writesonic](https://writesonic.com/) | Writer with fact-check features | Freemium | [Review](https://faceless.directory/directory/writesonic) |
 
-**Pro tip:** Use ChatGPT for ideas and hooks, Claude for long-form scripts.
+**Pro tip:** ChatGPT/Gemini for volume; Claude for long narration scripts you will actually voice.
 
 ---
 
 ## 🎙️ Voice & Text-to-Speech
 
-AI voice generators for narration and voiceovers.
+Narration quality is the #1 retention lever for faceless channels.
 
 | Tool | Description | Pricing | Review |
 |------|-------------|---------|--------|
-| [ElevenLabs](https://elevenlabs.io/) | Industry-leading voice quality, voice cloning | From $5/mo | [Review](https://faceless.directory/directory/elevenlabs) |
-| [Play.ht](https://play.ht/) | 800+ voices, SSML support, podcast hosting | From $14/mo | [Review](https://faceless.directory/directory/playht) |
-| [Murf AI](https://murf.ai/) | 120+ voices with built-in video editor | From $13/mo | [Review](https://faceless.directory/directory/murf) |
-| [WellSaid Labs](https://wellsaidlabs.com/) | Studio-quality voices for professional content | From $49/mo | [Review](https://faceless.directory/directory/wellsaid) |
-| [Speechify](https://speechify.com/) | Natural voices with speed control | Freemium | [Review](https://faceless.directory/directory/speechify) |
-| [LOVO AI](https://lovo.ai/) | 500+ voices with emotion control | From $24/mo | [Review](https://faceless.directory/directory/lovo) |
+| [ElevenLabs](https://elevenlabs.io/) | Top-tier voice + cloning | From $5/mo | [Review](https://faceless.directory/directory/elevenlabs) |
+| [Cartesia](https://cartesia.ai/) | Ultra-low latency, natural speech | Paid | — |
+| [Fish Audio](https://fish.audio/) | Strong cloning, creator-friendly | Freemium | — |
+| [Play.ht](https://play.ht/) | Large voice library, SSML | From $14/mo | [Review](https://faceless.directory/directory/playht) |
+| [Murf AI](https://murf.ai/) | Voices + light video editor | From $13/mo | [Review](https://faceless.directory/directory/murf) |
+| [WellSaid Labs](https://wellsaidlabs.com/) | Studio-quality corporate voices | From $49/mo | [Review](https://faceless.directory/directory/wellsaid) |
+| [Speechify](https://speechify.com/) | Natural voices, speed control | Freemium | [Review](https://faceless.directory/directory/speechify) |
+| [LOVO AI](https://lovo.ai/) | Voices + emotion controls | From $24/mo | [Review](https://faceless.directory/directory/lovo) |
+| [OpenAI TTS](https://platform.openai.com/docs/guides/text-to-speech) | API voices for automation pipelines | Pay-as-you-go | — |
 
-**Pro tip:** ElevenLabs for quality, Play.ht for variety.
+**Pro tip:** ElevenLabs for hero voice; Cartesia/Fish when you automate high volume.
 
 ---
 
 ## 🎬 Video Generation
 
-AI tools for creating and generating video content.
+Text/image-to-video, avatars, and “full video from prompt” tools.
 
 | Tool | Description | Pricing | Review |
 |------|-------------|---------|--------|
-| [Runway](https://runwayml.com/) | Text/image-to-video with Gen-3 | From $12/mo | [Review](https://faceless.directory/directory/runway) |
-| [Pika](https://pika.art/) | Quick AI video generation | Free tier available | [Review](https://faceless.directory/directory/pika) |
-| [InVideo AI](https://invideo.io/) | Complete videos from text prompts | From $25/mo | [Review](https://faceless.directory/directory/invideo) |
-| [Pictory](https://pictory.ai/) | Blog/script to video conversion | From $19/mo | [Review](https://faceless.directory/directory/pictory) |
-| [Synthesia](https://synthesia.io/) | AI avatars for talking-head videos | From $22/mo | [Review](https://faceless.directory/directory/synthesia) |
-| [HeyGen](https://heygen.com/) | Realistic AI avatars with voice cloning | From $24/mo | [Review](https://faceless.directory/directory/heygen) |
-| [D-ID](https://d-id.com/) | Photo-to-video with talking avatars | Freemium | [Review](https://faceless.directory/directory/d-id) |
-| [Lumen5](https://lumen5.com/) | Blog-to-video with AI | Freemium | [Review](https://faceless.directory/directory/lumen5) |
-| [Fliki](https://fliki.ai/) | Text-to-video with AI voices | From $21/mo | [Review](https://faceless.directory/directory/fliki) |
+| [Kling AI](https://klingai.com/) | Strong motion, popular for Shorts B-roll | Freemium / paid | — |
+| [Luma Dream Machine](https://lumalabs.ai/dream-machine) | Fast cinematic generations | Freemium | — |
+| [Runway](https://runwayml.com/) | Gen video, editing tools, pro workflows | From $12/mo | [Review](https://faceless.directory/directory/runway) |
+| [Google Veo](https://deepmind.google/models/veo/) | High-quality text-to-video (access varies) | Paid / preview | — |
+| [MiniMax Hailuo](https://hailuoai.video/) | Competitive T2V for social clips | Freemium | — |
+| [Haiper](https://haiper.ai/) | Quick social-ready generations | Freemium | — |
+| [Pika](https://pika.art/) | Fast creative video clips | Free tier | [Review](https://faceless.directory/directory/pika) |
+| [InVideo AI](https://invideo.io/) | Idea → full video with stock | From $25/mo | [Review](https://faceless.directory/directory/invideo) |
+| [Pictory](https://pictory.ai/) | Script/blog → video | From $19/mo | [Review](https://faceless.directory/directory/pictory) |
+| [Fliki](https://fliki.ai/) | Text-to-video + AI voices | From $21/mo | [Review](https://faceless.directory/directory/fliki) |
+| [Synthesia](https://synthesia.io/) | AI avatars (talking head without you) | From $22/mo | [Review](https://faceless.directory/directory/synthesia) |
+| [HeyGen](https://heygen.com/) | Avatars + voice cloning | From $24/mo | [Review](https://faceless.directory/directory/heygen) |
+| [D-ID](https://d-id.com/) | Photo → talking avatar | Freemium | [Review](https://faceless.directory/directory/d-id) |
+| [Lumen5](https://lumen5.com/) | Blog-to-video | Freemium | [Review](https://faceless.directory/directory/lumen5) |
 
-**Pro tip:** Runway for B-roll, InVideo for fast complete videos.
+**Pro tip:** Use Kling/Luma/Runway for **B-roll**; use InVideo/Pictory when you need a **finished cut** fast. Avatars (HeyGen/Synthesia) are a different niche (explainers/corporate), not pure “reddit story” style.
 
 ---
 
-## ✂️ Video Editing
+## ✂️ Video Editing & Clips
 
-Free and paid tools for editing faceless content.
+Editors + Shorts/Reels clip factories.
 
 | Tool | Description | Pricing | Review |
 |------|-------------|---------|--------|
-| [CapCut](https://capcut.com/) | Free editor with AI features, auto-captions | Free | [Review](https://faceless.directory/directory/capcut) |
+| [CapCut](https://capcut.com/) | Free editor, captions, templates | Free | [Review](https://faceless.directory/directory/capcut) |
 | [Descript](https://descript.com/) | Edit video by editing text | From $12/mo | [Review](https://faceless.directory/directory/descript) |
-| [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Professional-grade free editor | Free | [Review](https://faceless.directory/directory/davinci) |
-| [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) | Industry-standard video editor | $22/mo | [Review](https://faceless.directory/directory/premiere) |
-| [Final Cut Pro](https://www.apple.com/final-cut-pro/) | Professional editing for Mac | $299 one-time | [Review](https://faceless.directory/directory/finalcut) |
-| [VEED](https://veed.io/) | Browser-based editor with AI tools | Freemium | [Review](https://faceless.directory/directory/veed) |
-| [Kapwing](https://kapwing.com/) | Online editor with auto-subtitles | Freemium | [Review](https://faceless.directory/directory/kapwing) |
-| [Opus Clip](https://opus.pro/) | AI short-form clip generator | From $15/mo | [Review](https://faceless.directory/directory/opus-clip) |
+| [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Pro-grade free NLE | Free | [Review](https://faceless.directory/directory/davinci) |
+| [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html) | Industry standard | $22/mo | [Review](https://faceless.directory/directory/premiere) |
+| [Final Cut Pro](https://www.apple.com/final-cut-pro/) | Mac pro editor | $299 one-time | [Review](https://faceless.directory/directory/finalcut) |
+| [VEED](https://veed.io/) | Browser editor + AI | Freemium | [Review](https://faceless.directory/directory/veed) |
+| [Kapwing](https://kapwing.com/) | Online editor, subtitles | Freemium | [Review](https://faceless.directory/directory/kapwing) |
+| [Opus Clip](https://opus.pro/) | Long video → viral Shorts | From $15/mo | [Review](https://faceless.directory/directory/opus-clip) |
+| [Submagic](https://www.submagic.co/) | Captions + hook-style Shorts edits | Paid | — |
+| [Vizard](https://vizard.ai/) | AI clipping for social | Freemium / paid | — |
+| [Munch](https://www.getmunch.com/) | AI repurposing / clips | Paid | — |
 
-**Pro tip:** CapCut for beginners (it's 100% free), Descript for podcast-style content.
+**Pro tip:** CapCut for beginners; Opus/Submagic/Vizard when long-form → Shorts is the growth loop.
 
 ---
 
 ## 🖼️ Thumbnails & Graphics
 
-Create click-worthy thumbnails and visuals.
-
 | Tool | Description | Pricing | Review |
 |------|-------------|---------|--------|
-| [Midjourney](https://midjourney.com/) | Best AI image generation for artistic styles | From $10/mo | [Review](https://faceless.directory/directory/midjourney) |
-| [DALL-E 3](https://openai.com/dall-e-3) | Photorealistic AI images via ChatGPT | Included in ChatGPT Plus | [Review](https://faceless.directory/directory/dalle) |
-| [Canva](https://canva.com/) | Drag-and-drop design with templates | Freemium | [Review](https://faceless.directory/directory/canva) |
-| [Leonardo.ai](https://leonardo.ai/) | AI image generation with style control | Freemium | [Review](https://faceless.directory/directory/leonardo) |
-| [Ideogram](https://ideogram.ai/) | AI images with accurate text rendering | Freemium | [Review](https://faceless.directory/directory/ideogram) |
-| [Adobe Firefly](https://firefly.adobe.com/) | AI images integrated with Adobe suite | Freemium | [Review](https://faceless.directory/directory/firefly) |
-| [Photoshop](https://www.adobe.com/products/photoshop.html) | Industry-standard image editing | $20/mo | [Review](https://faceless.directory/directory/photoshop) |
+| [Midjourney](https://midjourney.com/) | Artistic thumbnails & scenes | From $10/mo | [Review](https://faceless.directory/directory/midjourney) |
+| [DALL·E](https://openai.com/dall-e-3) | Photoreal via ChatGPT | ChatGPT Plus | [Review](https://faceless.directory/directory/dalle) |
+| [Flux](https://blackforestlabs.ai/) | High-quality open-weight image models (via hosts) | Varies | — |
+| [Canva](https://canva.com/) | Templates, text-on-thumb fast | Freemium | [Review](https://faceless.directory/directory/canva) |
+| [Leonardo.ai](https://leonardo.ai/) | Style control for assets | Freemium | [Review](https://faceless.directory/directory/leonardo) |
+| [Ideogram](https://ideogram.ai/) | Readable text in images | Freemium | [Review](https://faceless.directory/directory/ideogram) |
+| [Adobe Firefly](https://firefly.adobe.com/) | Generative fill in Adobe stack | Freemium | [Review](https://faceless.directory/directory/firefly) |
+| [Photoshop](https://www.adobe.com/products/photoshop.html) | Final polish | $20/mo | [Review](https://faceless.directory/directory/photoshop) |
 
-**Pro tip:** Midjourney for artistic thumbnails, Canva for quick edits.
+**Pro tip:** Generate in Midjourney/Flux, **finish text & face crop in Canva** — CTR lives or dies on readable title text.
 
 ---
 
-## ⚡ Automation
+## 🎵 Music & SFX
 
-Automate your content workflow.
-
-| Tool | Description | Pricing | Review |
-|------|-------------|---------|--------|
-| [Zapier](https://zapier.com/) | Connect 5000+ apps, easiest automation | From $20/mo | [Review](https://faceless.directory/directory/zapier) |
-| [Make](https://make.com/) | Advanced automation, more affordable | From $9/mo | [Review](https://faceless.directory/directory/make) |
-| [n8n](https://n8n.io/) | Self-hosted automation, open source | Free / From $20/mo | [Review](https://faceless.directory/directory/n8n) |
-| [Repurpose.io](https://repurpose.io/) | Auto-post to multiple platforms | From $25/mo | [Review](https://faceless.directory/directory/repurpose) |
-| [Buffer](https://buffer.com/) | Social media scheduling | Freemium | [Review](https://faceless.directory/directory/buffer) |
-| [Hootsuite](https://hootsuite.com/) | Social media management | From $99/mo | [Review](https://faceless.directory/directory/hootsuite) |
-
-**Pro tip:** Start with Zapier for simplicity, switch to Make for cost savings.
+| Tool | Description | Pricing |
+|------|-------------|---------|
+| [Suno](https://suno.com/) | AI music generation | Freemium |
+| [Udio](https://www.udio.com/) | AI music, strong vocals | Freemium |
+| [Epidemic Sound](https://www.epidemicsound.com/) | Cleared music for YouTube | Subscription |
+| [Artlist](https://artlist.io/) | Music + footage licensing | Subscription |
+| [Pixabay](https://pixabay.com/music/) | Free music (check license) | Free |
 
 ---
 
-## 📊 Analytics
-
-Track and optimize your channel performance.
+## ⚡ Automation & Publishing
 
 | Tool | Description | Pricing | Review |
 |------|-------------|---------|--------|
-| [TubeBuddy](https://tubebuddy.com/) | YouTube SEO and analytics | Freemium | [Review](https://faceless.directory/directory/tubebuddy) |
-| [VidIQ](https://vidiq.com/) | YouTube optimization and research | Freemium | [Review](https://faceless.directory/directory/vidiq) |
-| [Social Blade](https://socialblade.com/) | Public analytics tracking | Free | [Review](https://faceless.directory/directory/socialblade) |
+| [Zapier](https://zapier.com/) | Easiest app glue | From $20/mo | [Review](https://faceless.directory/directory/zapier) |
+| [Make](https://make.com/) | Visual automation, cheaper at scale | From $9/mo | [Review](https://faceless.directory/directory/make) |
+| [n8n](https://n8n.io/) | Self-host / open-source automation | Free / paid cloud | [Review](https://faceless.directory/directory/n8n) |
+| [Repurpose.io](https://repurpose.io/) | Cross-post video formats | From $25/mo | [Review](https://faceless.directory/directory/repurpose) |
+| [Buffer](https://buffer.com/) | Scheduling | Freemium | [Review](https://faceless.directory/directory/buffer) |
+| [Hootsuite](https://hootsuite.com/) | Team social management | From $99/mo | [Review](https://faceless.directory/directory/hootsuite) |
+| [Metricool](https://metricool.com/) | Schedule + analytics (YT/TikTok/IG) | Freemium | — |
+
+**Pro tip:** Automate **after** one manual video converts. Premature pipelines burn money.
+
+---
+
+## 📊 Analytics & SEO
+
+| Tool | Description | Pricing | Review |
+|------|-------------|---------|--------|
+| [TubeBuddy](https://tubebuddy.com/) | YT SEO, tags, A/B | Freemium | [Review](https://faceless.directory/directory/tubebuddy) |
+| [VidIQ](https://vidiq.com/) | Keyword & competitor research | Freemium | [Review](https://faceless.directory/directory/vidiq) |
+| [Social Blade](https://socialblade.com/) | Public channel stats | Free | [Review](https://faceless.directory/directory/socialblade) |
+| [YouTube Studio](https://studio.youtube.com/) | Official analytics (start here) | Free | — |
+| [Google Trends](https://trends.google.com/) | Topic demand | Free | — |
 
 ---
 
 ## 📁 Organization
 
-Keep your content pipeline organized.
-
 | Tool | Description | Pricing | Review |
 |------|-------------|---------|--------|
-| [Notion](https://notion.so/) | All-in-one workspace for content planning | Freemium | [Review](https://faceless.directory/directory/notion) |
-| [Airtable](https://airtable.com/) | Database for content calendars | Freemium | [Review](https://faceless.directory/directory/airtable) |
-| [ClickUp](https://clickup.com/) | Project management for creators | Freemium | [Review](https://faceless.directory/directory/clickup) |
-| [Trello](https://trello.com/) | Simple visual project boards | Freemium | [Review](https://faceless.directory/directory/trello) |
+| [Notion](https://notion.so/) | Content calendar + SOPs | Freemium | [Review](https://faceless.directory/directory/notion) |
+| [Airtable](https://airtable.com/) | Pipeline database | Freemium | [Review](https://faceless.directory/directory/airtable) |
+| [ClickUp](https://clickup.com/) | Tasks for multi-channel ops | Freemium | [Review](https://faceless.directory/directory/clickup) |
+| [Trello](https://trello.com/) | Simple kanban | Freemium | [Review](https://faceless.directory/directory/trello) |
+
+---
+
+## 🛠️ Open-source pipelines
+
+GitHub projects that generate faceless videos end-to-end (great for learning automation; quality varies).
+
+| Project | What it does |
+|---------|----------------|
+| [Dark2C/Viral-Faceless-Shorts-Generator](https://github.com/Dark2C/Viral-Faceless-Shorts-Generator) | Trending topics → script → TTS → FFmpeg Shorts |
+| [aruntemme/n8n-faceless-youtube](https://github.com/aruntemme/n8n-faceless-youtube) | n8n workflows for faceless YT |
+| [mmagdyelsafty/faceless-video-pipeline](https://github.com/mmagdyelsafty/faceless-video-pipeline) | Prompt → upload-ready video toolkit |
+| [jansencruz23/faceless-youtube-factory](https://github.com/jansencruz23/faceless-youtube-factory) | FastAPI + LangGraph factory pattern |
+
+Use these to understand the pipeline; for monetized channels, swap in paid TTS/video for quality.
 
 ---
 
 ## 📚 Guides & Tutorials
 
-Learn how to build profitable faceless channels.
+Hosted on [faceless.directory](https://faceless.directory) — keep these for SEO depth.
 
 ### Getting Started
-- [How to Start a Faceless YouTube Channel in 2025](https://faceless.directory/blog/how-to-start-faceless-youtube-channel)
-- [20 Faceless YouTube Channel Ideas That Actually Make Money](https://faceless.directory/blog/faceless-youtube-channel-ideas-2025)
+- [How to Start a Faceless YouTube Channel](https://faceless.directory/blog/how-to-start-faceless-youtube-channel)
+- [20 Faceless YouTube Channel Ideas That Make Money](https://faceless.directory/blog/faceless-youtube-channel-ideas-2025)
 - [The Ultimate FREE AI Tool Stack for Faceless YouTube](https://faceless.directory/blog/zero-budget-faceless-youtube-guide)
 
 ### Workflow & Tools
-- [ElevenLabs vs Murf vs Play.ht: Best AI Voice Comparison](https://faceless.directory/blog/elevenlabs-vs-murf-vs-play)
-- [Pika vs Runway vs Sora: Best AI Video Generator](https://faceless.directory/blog/pika-vs-runway-vs-sora)
-- [CapCut for Faceless Videos: Complete Tutorial](https://faceless.directory/blog/capcut-faceless-video-editing)
+- [ElevenLabs vs Murf vs Play.ht](https://faceless.directory/blog/elevenlabs-vs-murf-vs-play)
+- [Pika vs Runway vs Sora-class generators](https://faceless.directory/blog/pika-vs-runway-vs-sora)
+- [CapCut for Faceless Videos](https://faceless.directory/blog/capcut-faceless-video-editing)
 
-### Advanced Strategies
-- [Faceless YouTube Automation: Complete Guide](https://faceless.directory/blog/faceless-youtube-automation-guide)
-- [The 10-Minute-a-Day Faceless Factory: Automating with Zapier](https://faceless.directory/blog/automated-workflow-zapier-ai)
-- [YouTube Shorts SEO: 5 Viral Strategies](https://faceless.directory/blog/youtube-shorts-seo-uncovered)
+### Advanced
+- [Faceless YouTube Automation Guide](https://faceless.directory/blog/faceless-youtube-automation-guide)
+- [10-Minute-a-Day Factory with Zapier](https://faceless.directory/blog/automated-workflow-zapier-ai)
+- [YouTube Shorts SEO](https://faceless.directory/blog/youtube-shorts-seo-uncovered)
 
 ### Monetization
 - [7 Revenue Streams Beyond AdSense](https://faceless.directory/blog/faceless-youtube-monetization)
-- [5 Proven Affiliate Marketing Strategies for Faceless Channels](https://faceless.directory/blog/affiliate-marketing-faceless-channels)
-- [YouTube's New AI Rules: How to Avoid Demonetization](https://faceless.directory/blog/youtube-ai-monetization-traps)
+- [Affiliate Strategies for Faceless Channels](https://faceless.directory/blog/affiliate-marketing-faceless-channels)
+- [YouTube AI Rules & Demonetization Risks](https://faceless.directory/blog/youtube-ai-monetization-traps)
 
-### Niche-Specific
-- [Reddit Stories Channel: Complete Guide](https://faceless.directory/blog/reddit-stories-youtube-channel-guide)
-- [Horror Narration Channel: Setup Guide](https://faceless.directory/blog/horror-narration-channel-guide)
-- [AI News Channel: How to Start](https://faceless.directory/blog/ai-news-channel-guide)
-- [Meditation & Sleep Sounds: High CPM Niche](https://faceless.directory/blog/meditation-sleep-channel-guide)
+### Niche playbooks
+- [Reddit Stories Channel](https://faceless.directory/blog/reddit-stories-youtube-channel-guide)
+- [Horror Narration](https://faceless.directory/blog/horror-narration-channel-guide)
+- [AI News Channel](https://faceless.directory/blog/ai-news-channel-guide)
+- [Meditation & Sleep (high CPM)](https://faceless.directory/blog/meditation-sleep-channel-guide)
 
 ---
 
 ## 🎯 Channel Ideas
 
-Popular faceless niches with high earning potential:
-
-| Niche | CPM Range | Difficulty | Tools Needed |
-|-------|-----------|------------|--------------|
-| **Finance/Investing** | $15-40 | Hard | ChatGPT, ElevenLabs, CapCut |
-| **Tech Reviews** | $8-20 | Medium | Screen recorder, AI voice |
-| **Horror Stories** | $4-10 | Easy | ElevenLabs, dark visuals |
-| **Reddit Stories** | $3-8 | Easy | TTS, stock footage |
-| **True Crime** | $6-15 | Medium | Research, narration |
-| **Top 10 Lists** | $2-6 | Easy | Script + stock footage |
-| **Meditation/Sleep** | $5-15 | Easy | Ambient audio, AI visuals |
-| **Educational/Explainers** | $6-15 | Medium | Animation, good script |
-| **AI News** | $8-20 | Medium | Current research, fast turnaround |
-| **Gaming Lore** | $3-8 | Medium | Game footage, narration |
+| Niche | CPM Range | Difficulty | Core tools |
+|-------|-----------|------------|------------|
+| **Finance / Investing** | $15–40 | Hard | Claude, ElevenLabs, CapCut |
+| **Tech explainers** | $8–20 | Medium | Screen + AI voice |
+| **Horror stories** | $4–10 | Easy | ElevenLabs + dark B-roll |
+| **Reddit stories** | $3–8 | Easy | TTS + stock / AI video |
+| **True crime** | $6–15 | Medium | Research + narration |
+| **Top 10 / listicles** | $2–6 | Easy | Script + stock |
+| **Meditation / sleep** | $5–15 | Easy | Ambient audio + slow visuals |
+| **Educational explainers** | $6–15 | Medium | Motion + strong script |
+| **AI news** | $8–20 | Medium | Fast research loop |
+| **Gaming lore** | $3–8 | Medium | Footage + narration |
 
 ---
 
 ## 🔗 Communities
 
-Connect with other faceless creators:
-
-- [r/NewTubers](https://reddit.com/r/NewTubers) - General YouTube advice
-- [r/PartneredYoutube](https://reddit.com/r/PartneredYoutube) - Monetized creators
-- [r/youtubers](https://reddit.com/r/youtubers) - YouTube creator community
-- [Indie Hackers](https://indiehackers.com/) - For the business side
+- [r/NewTubers](https://reddit.com/r/NewTubers) — beginner YT
+- [r/PartneredYoutube](https://reddit.com/r/PartneredYoutube) — monetized creators
+- [r/youtubers](https://reddit.com/r/youtubers) — general creators
+- [r/FacelessYouTube](https://www.reddit.com/r/FacelessYouTube/) — faceless-specific (if available / similar subs)
+- [Indie Hackers](https://indiehackers.com/) — business side of creator ops
 
 ---
 
 ## Contributing
 
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-If you find this list useful, please ⭐ star the repo!
+**Good PR:** real product URL, one-line job-to-be-done, pricing honesty, no pure affiliate spam.
+
+If this list helps you, **star the repo** — it helps other faceless creators find it.
 
 ---
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This list is dedicated to the public domain under CC0 1.0.
+Public domain (CC0 1.0).
 
 ---
 
-**Built and maintained by [Faceless Directory](https://faceless.directory)** — The #1 resource for faceless content creators.
+**Maintained for [Faceless Directory](https://faceless.directory)** — tools, stacks, and playbooks for faceless creators.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sasharun/awesome-faceless&type=Date)](https://star-history.com/#sasharun/awesome-faceless&Date)
